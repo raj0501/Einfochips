@@ -42,6 +42,7 @@ else #if both values are number then this will excute
 		div=$(echo "scale=2 ; $num1 / $num2" | bc -l) 
 		#here scale=2 that  print 2 number after dot -l gives 20 numbers after the dot
 		#here scale=2 that  print 2 number after dot -l gives 20 numbers after the dot
+		#here scale=2 that  print 2 number after dot -l gives 20 numbers after the dot
 		echo "Div : $div"
 	fi
 fi
