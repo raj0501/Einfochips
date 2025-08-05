@@ -1,0 +1,17 @@
+Input cannot be empty
+only .c file taken as input
+log.c file does not exist
+Run Successfully....
+Run Successfully....
+17demo.c: In function ‘main’:
+17demo.c:12:17: error: ‘abcd’ undeclared (first use in this function)
+   12 |         int a = abcd;
+      |                 ^~~~
+17demo.c:12:17: note: each undeclared identifier is reported only once for each function it appears in
+17demo.c:13:23: error: expected ‘;’ before ‘printf’
+   13 |         printf("%d",a)
+      |                       ^
+      |                       ;
+   14 |         printf("Run Successfully....\n");
+      |         ~~~~~~         
+Compilation failed

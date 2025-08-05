@@ -1,0 +1,9 @@
+Thu Jul 31 11:19:14 IST 2025: CPU 0%, Memory %
+Thu Jul 31 11:20:41 IST 2025: CPU 1%, Memory 4%
+Thu Jul 31 11:22:47 IST 2025: CPU 0%, Memory 4%
+Thu Jul 31 11:25:06 IST 2025: CPU 1%, Memory 4%
+Thu Jul 31 11:25:34 IST 2025: CPU 0%, Memory 4%
+Thu Jul 31 11:27:54 IST 2025: CPU 1%, Memory 4%
+Thu Jul 31 11:28:06 IST 2025: CPU 0%, Memory 4%
+Thu Jul 31 11:28:23 IST 2025: CPU 0%, Memory 4%
+Thu Jul 31 11:29:52 IST 2025: CPU 0%, Memory 4%
